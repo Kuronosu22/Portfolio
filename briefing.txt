@@ -1,0 +1,31 @@
+Nome do Projeto:
+Portfólio Pessoal de Guilherme
+
+Objetivo Principal:
+Criar um portfólio online para destacar habilidades, com o foco em atrair recrutadores e empresas da área de TI. O objetivo é ajudar Guilherme a conseguir uma vaga como desenvolvedor backend, frontend ou fullstack.
+
+Público-Alvo:
+Recrutadores, gerentes de contratação e empresas de tecnologia que buscam desenvolvedores talentosos.
+
+Principais Funcionalidades:
+
+Seção de Sobre: Breve introdução sobre Guilherme, destacando formação em Ciências da Computação e suas habilidades em desenvolvimento web, Python, C e outras tecnologias relevantes.
+
+Estilo Visual:
+Design minimalista, com foco em clareza e navegação intuitiva. A paleta de cores será limpa e profissional, utilizando tons de cinza, branco e uma cor de destaque para os links e botões. A navegação será simples e rápida, sem excesso de animações ou elementos que possam distrair.
+
+Tecnologias Utilizadas:
+
+HTML5 e CSS3 para estrutura e estilização.
+JavaScript para interatividade (se necessário).
+Integração com LinkedIn e GitHub para exibir projetos e contatos.
+Conteúdos Chave:
+
+Apresentação clara das habilidades técnicas (desenvolvimento web, Python, C).
+Informações de contato e links diretos para redes profissionais.
+Diferenciais:
+
+Foco no que o torna único como desenvolvedor, destacando experiência acadêmica, projetos pessoais, fluência em inglês e a capacidade de resolver problemas.
+Design responsivo, adaptado para mobile, já que muitos recrutadores acessam via smartphones.
+Cronograma e Orçamento:
+A definir, mas a construção deve focar em simplicidade e funcionalidade, priorizando o impacto visual profissional e a usabilidade.
